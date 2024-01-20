@@ -1,0 +1,1 @@
+everything about js by qu10
