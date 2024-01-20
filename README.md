@@ -1,1 +1,1 @@
-everything about js by qu10
+EVERYTHING ABOUT JS
